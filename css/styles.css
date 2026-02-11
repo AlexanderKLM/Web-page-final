@@ -117,7 +117,7 @@ button {
  }
 
  .container61{
-  background-image: url("/css/images/61.png");
+  background-image: url(../img/61.png);
     min-width: 25vw;
     min-height: 100%;
     margin-left: auto;
@@ -127,7 +127,7 @@ button {
  }
 
  .container62{
-  background-image: url("/css/images/62.png");
+  background-image: url(../img/62.png);
     min-width: 25vw;
     min-height: 100%;
     margin-left: auto;
@@ -137,7 +137,7 @@ button {
  }
 
  .container63{
-  background-image: url("/css/images/63.png");
+  background-image: url(../img/63.png);
     min-width: 25vw;
     min-height: 100%;
     margin-left: auto;
@@ -290,7 +290,7 @@ a:visited {
 .box1image {
   position: relative;
     display: block;
-    background-image: url(./images/1.png);
+    background-image: url(../img/1.png);
     width: 70vw;
     height: 700px;
     background-size: cover;
@@ -334,7 +334,7 @@ font-size: large;
 .box3image {
   position: relative;
     object-fit: cover;
-    background-image: url(./images/2.png);
+    background-image: url(../img/2.png);
     background-size: cover;
     min-width: 100%;
 }
@@ -353,7 +353,7 @@ font-size: large;
 }
 
 .box41image {
-  background-image: url(./images/41.png);
+  background-image: url(../img/41.png);
     background-size: contain;
     min-height: 130px;
     min-width: 135px;
@@ -366,7 +366,7 @@ font-size: large;
 }
 
 .box42image {
-  background-image: url(./images/42.png);
+  background-image: url(../img/42.png);
     background-size: contain;
     min-height: 130px;
     min-width: 135px;
@@ -378,7 +378,7 @@ font-size: large;
   text-align: center;
 }
 .box43image {
-  background-image: url(./images/43.png);
+  background-image: url(../img/43.png);
     background-size: contain;
     min-height: 130px;
     min-width: 135px;
@@ -392,7 +392,7 @@ font-size: large;
 .box5image {
   position: relative;
     object-fit: cover;
-    background-image: url(./images/3.png);
+    background-image: url(../img/3.png);
     background-size: cover;
     min-width: 100%;
 }
@@ -446,7 +446,7 @@ font-size: large;
 .box71image {
   position: relative;
   display: flex;
-  background-image: url(./images/71.png);
+  background-image: url(../img/71.png);
   background-size: cover;
   border-radius: 50%;
   width: 150px;
@@ -470,7 +470,7 @@ font-size: large;
 .box72image {
   position: relative;
     display: flex;
-    background-image: url(./images/72.png);
+    background-image: url(../img/72.png);
     background-size: cover;
     border-radius: 50%;
     width: 150px;
@@ -494,7 +494,7 @@ font-size: large;
 .box73image {
   position: relative;
   display: flex;
-  background-image: url(./images/73.png);
+  background-image: url(../img/73.png);
   background-size: cover;
   border-radius: 50%;
   width: 150px;
@@ -518,7 +518,7 @@ font-size: large;
 .box74image {
   position: relative;
   display: flex;
-  background-image: url(./images/74.png);
+  background-image: url(../img/74.png);
   background-size: cover;
   border-radius: 50%;
   width: 150px;
@@ -542,7 +542,7 @@ font-size: large;
 .box75image {
   position: relative;
   display: flex;
-  background-image: url(./images/75.png);
+  background-image: url(../img/75.png);
   background-size: cover;
   border-radius: 50%;
   width: 150px;
@@ -616,7 +616,7 @@ font-size: large;
 .footerpng {
   position: relative;
   display: flex;
-  background-image: url(./images/footlog.png);
+  background-image: url(../img/footlog.png);
   background-size: contain;
   min-height: 10vh;
   min-width: 10vw;
